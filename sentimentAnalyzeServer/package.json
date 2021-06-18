@@ -7,7 +7,10 @@
     "start": "nodemon sentimentAnalyzerServer.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Abdessamad Bensaad",
+    "email": "bensaad.a@outlook.com"
+  },
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
